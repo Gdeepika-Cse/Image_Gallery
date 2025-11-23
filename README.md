@@ -219,5 +219,17 @@ Publish the website in the given URL.
 
 <img width="1918" height="1109" alt="image" src="https://github.com/user-attachments/assets/dceeef11-ed78-4ef8-9905-a593ad9c67ba" />
 
+<img width="1919" height="1135" alt="image" src="https://github.com/user-attachments/assets/8a37c758-5ffb-4e1e-a6f4-435617bed2ac" />
+
+<img width="1919" height="1135" alt="image" src="https://github.com/user-attachments/assets/b4b025b8-2173-4d51-89a2-226eceb29e5f" />
+
+<img width="1919" height="1139" alt="image" src="https://github.com/user-attachments/assets/b4d6fecb-e39f-4ca2-8fc6-68ff40359eef" />
+
+<img width="1919" height="1141" alt="image" src="https://github.com/user-attachments/assets/2cb08f6d-1dd7-4177-b6c9-702088905965" />
+
+<img width="1919" height="1136" alt="image" src="https://github.com/user-attachments/assets/fd2f3e5a-2078-4c47-a679-d46d2ea6a25b" />
+
+<img width="1919" height="1131" alt="image" src="https://github.com/user-attachments/assets/6e993859-97e7-4bf8-9928-7f41ae7275bc" />
+
 ## RESULT
   The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
